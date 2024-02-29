@@ -1,0 +1,22 @@
+# .NET & Playwright specific
+bin/
+obj/
+*.csproj.user
+*.suo
+*.user
+*.vscode/
+.vs/
+.nuget/
+obj/
+bin/
+TestResults/
+_resharper/
+*.log
+*.swp
+
+# Visual Studio Code specific
+.vscode/
+
+# Playwright specific
+playwright-artifacts/
+playwright-logs/
